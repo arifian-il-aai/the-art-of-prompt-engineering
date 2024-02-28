@@ -1,15 +1,15 @@
 
-# The Art of Prompt Engineering
+## The Art of Prompt Engineering
 
-# Author : Cognitive Class AI
+## Author : Cognitive Class AI
 
-# Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
+## Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 
-# Mentee Info 
+## Mentee Info 
 
-# Name : Arifian Saputra
-# Program : IBM Academy Advance AI
+## Name : Arifian Saputra
+## Program : IBM Academy Advance AI
 
-# Tech Stack
+## Tech Stack
 - Python
 - Jupyter Notebook
